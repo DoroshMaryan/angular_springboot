@@ -1,0 +1,10 @@
+.class
+/.idea
+/bin
+/AmwayTools internal/bin/
+/AmwayTools internal/.classpath
+/AmwayTools internal/.project
+/AmwayTools internal/.settings/
+/csv-parser-converter
+/production
+/angular_springboot.iml
